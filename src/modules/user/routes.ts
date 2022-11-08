@@ -6,7 +6,7 @@ export default function userHandler(server, options, next) {
       (user) => user.email === body.email && user.password === body.password
     );
     if (user) {
-      res.status(200).send({ msg: "User found" });
+      res.status(200).send(user);
     } else {
       res.status(500).send({ msg: "No user found" });
     }
