@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "prixPerUser": "25",
+    "name": "Mon super espace co working 10 Av. des Apothicaires, 34090 Montpellier",
+    "address": "10 Av. des Apothicaires, 34090 Montpellier",
+    "location": { "lat": 43.64505763747316, "long": 3.842352399993142 },
+    "byCompany": {
+      "engie": { "free": 25, "took": 10 }
+    }
+  },
+  {
+    "id": 1,
+    "prixPerUser": "25",
+    "name": "Mon super espace co working 1085 Rue Paul Rimbaud, 34080 Montpellier",
+    "address": "1085 Rue Paul Rimbaud, 34080 Montpellier",
+    "location": { "lat": 43.617251198401654, "long": 3.8376053628809785 },
+    "byCompany": {
+      "engie": { "free": 25, "took": 10 },
+      "smile": { "free": 25, "took": 10 }
+    }
+  },
+  {
+    "id": 2,
+    "prixPerUser": "25",
+    "name": "Mon super espace co working 53 Rte de Lodève, 34080 Montpellier",
+    "address": "53 Rte de Lodève, 34080 Montpellier",
+    "location": { "lat": 43.61489340175601, "long": 3.82634764198028 },
+    "byCompany": {
+      "engie": { "free": 25, "took": 10 },
+      "smile": { "free": 25, "took": 10 }
+    }
+  },
+  {
+    "id": 3,
+    "prixPerUser": "25",
+    "name": "Mon super espace co working 185 Rue de Font Caude Batiment b2, 34080 Montpellier",
+    "address": "185 Rue de Font Caude Batiment b2, 34080 Montpellier",
+    "location": { "lat": 43.61884247850528, "long": 3.8193094519461113 },
+    "byCompany": {
+      "smile": { "free": 25, "took": 10 }
+    }
+  }
+]

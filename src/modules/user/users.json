@@ -3,42 +3,42 @@
     "id": 0,
     "email": "a@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.64505763747316, "long": 3.842352399993142 },
     "company": "engie"
   },
   {
     "id": 1,
     "email": "b@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.617251198401654, "long": 3.8376053628809785 },
     "company": "engie"
   },
   {
     "id": 2,
     "email": "c@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.61489340175601, "long": 3.82634764198028 },
     "company": "smile"
   },
   {
     "id": 3,
     "email": "d@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.61884247850528, "long": 3.8193094519461113 },
     "company": "smile"
   },
   {
     "id": 4,
     "email": "e@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.61884247850528, "long": 3.8193094519461113 },
     "company": "engie"
   },
   {
     "id": 5,
     "email": "f@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.61884247850528, "long": 3.8193094519461113 },
     "company": "engie"
   },
   {
@@ -52,21 +52,21 @@
     "id": 7,
     "email": "h@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.61884247850528, "long": 3.8193094519461113 },
     "company": "engie"
   },
   {
     "id": 8,
     "email": "i@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.61884247850528, "long": 3.8193094519461113 },
     "company": "engie"
   },
   {
     "id": 9,
     "email": "j@gmail.com",
     "password": "a",
-    "location": { "lat": 25.9, "long": 10.7 },
+    "location": { "lat": 43.61884247850528, "long": 3.8193094519461113 },
     "company": "engie"
   }
 ]

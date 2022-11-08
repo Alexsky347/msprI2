@@ -7,6 +7,7 @@ import fastifyMulter from "fastify-multer";
 import path from "path";
 import EnvService from "./utils/EnvService";
 import { FastifyReply } from "fastify";
+import coworkingHandler from "./modules/coworking/routes";
 
 export class Server {
   private static server;
@@ -45,6 +46,7 @@ export class Server {
    */
   private static declareEndPoints() {
     this.server.register(userHandler, { prefix: `${this.apiPrefix}` });
+    this.server.register(coworkingHandler, { prefix: `${this.apiPrefix}` });
   }
 
   /**
